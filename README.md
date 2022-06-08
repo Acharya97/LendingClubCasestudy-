@@ -8,7 +8,6 @@ In this case study, objective is to understand which consumer attributes and loa
 This will help the banks in making quicker, smarter and less risky decisions while approving the loan.
 
 ## Analysis Approach
-o
 Data Understanding
 * Checking the number of records
 * Checking the number of columns
