@@ -1,11 +1,11 @@
 # Lending Club Case Study 
 
 ## Problem Statement
-• The Company is a Consumer finance company that lends various type of loans to urban customers
-• Whenever a new loan application comes to the bank, it is crucial for the bank to decide whether or not to approve the loan
-• Hence it is important for the banks to take the right decision and approve the right loans
-• In this case study, objective is to understand which consumer attributes and loan attributes influence the tendency of defaulting on a loan
-• This will help the banks in making quicker, smarter and less risky decisions while approving the loan
+The Company is a Consumer finance company that lends various type of loans to urban customers.
+Whenever a new loan application comes to the bank, it is crucial for the bank to decide whether or not to approve the loan.
+Hence it is important for the banks to take the right decision and approve the right loans.
+In this case study, objective is to understand which consumer attributes and loan attributes influence the tendency of defaulting on a loan.
+This will help the banks in making quicker, smarter and less risky decisions while approving the loan.
 
 ## Analysis Approach
 o
