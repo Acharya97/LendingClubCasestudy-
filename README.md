@@ -1,52 +1,35 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study 
 
+## Problem Statement
+• The Company is a Consumer finance company that lends various type of loans to urban customers
+• Whenever a new loan application comes to the bank, it is crucial for the bank to decide whether or not to approve the loan
+• Hence it is important for the banks to take the right decision and approve the right loans
+• In this case study, objective is to understand which consumer attributes and loan attributes influence the tendency of defaulting on a loan
+• This will help the banks in making quicker, smarter and less risky decisions while approving the loan
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+## Analysis Approach
+o
+Data Understanding
+* Checking the number of records
+* Checking the number of columns
+* Understanding the datatypes of the different columns in dataset
+* Checking if there are any duplicate entries
+* Checking for columns with only one value
 
-<!-- You can include any other section that is pertinent to your problem -->
+Data Cleaning
+* Checking missing values in the dataset
+* Treating the missing values, if possible, else removing the columns having most of the records as missing values
+* Formatting the data wherever required
+* Deriving new columns for analysis if required
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Data Analysis and Visualization
+* Univariate Analysis
+* Bivariate Analysis
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+The detailed data exploration has helped in understanding that there are a few factors which can help us in knowing whether the person will default or not. This can help the bank in knowing the right opportunities and drop the ones that are risky.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Acharya97 - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
